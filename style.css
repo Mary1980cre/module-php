@@ -1,0 +1,23 @@
+
+
+body {
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0 auto;
+    
+}
+
+th,td {padding: 20px;}
+
+th {
+background-color: rgb(221, 221, 221);
+}
+
+table,th,td {
+    border: 1px solid rgb(158, 158, 158);
+    border-collapse: collapse;
+}
+
+p {
+    padding-bottom: 20px;
+}
